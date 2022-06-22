@@ -1,0 +1,20 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo_img {
+    height: 70px;
+    width: 70px;
+}
+
+.title {
+    font-size: 60px;
+    font-family: 'Staatliches';
+    font-weight: 400;
+}
